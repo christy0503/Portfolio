@@ -1,0 +1,219 @@
+body {
+    background-image: url("../img/bg.jpeg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #706145;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+#content{
+    margin: 5% 0;
+    font-size: larger;
+    line-height: 1.5; 
+
+}
+#content:first-letter{
+    font-size:2.5rem;
+}
+#work h2{
+    text-align: center;
+    font-size: 3rem;
+}
+#text{
+    margin: 0 0 0 3% ;
+    font-size: 7px;
+
+}
+#workflex{
+    padding: 5% 5% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#home{
+    text-align: center; 
+}
+.button-container {
+    text-align: right;
+    padding: 0 5% 3% 0 ;
+}
+
+.external-link-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333; 
+    color: #fff; 
+    text-decoration: none;
+    border-radius: 5px; 
+    font-size: 16px;
+    transition: background-color 0.3s ease; 
+}
+
+.external-link-button:hover {
+    background-color: #fff; 
+    color: #333 ; 
+    border: 1px solid #333; 
+
+}
+.worksimgs{
+    display: flex;
+    
+}
+.worksimg{
+    padding: 10px;
+}
+
+#typing-effect{
+    padding: 5% 0 10%;
+    font-size: 8rem;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+#githubfigma h2{
+    font-size: 3rem;
+}
+#githubfigma{
+    background: #ececec;
+    text-align: center;
+    padding: 3% 10% 5%;
+}
+
+section {
+    padding: 20px;
+}
+#profile h2{
+    font-size: 3rem;
+}
+#profile h3{
+    font-size: 1.8rem;
+}
+#profile{
+    text-align: center;
+}
+#Experiencecontainer{
+    display: flex;
+    text-align: center;    
+    align-items: center;
+    padding: 3% 0;
+    margin: 0 20%;
+}
+.Experience{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #b9c2d4;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    transition: transform 0.3s ease; 
+}
+
+.Experience:hover {
+    transform: scale(1.1); 
+}
+#certificate{
+    margin: auto;
+    text-align: center;
+    padding: 5% 0 0 ;
+}
+#certificate p {
+    padding: 1%;
+
+}
+#contact{
+    font-size: 3rem;
+    text-align: center;
+}
+#contact a{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 8%;
+}
+footer {
+    background-color: #706145;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-container {
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+.swiper-slide img {
+    max-width: 100%; 
+    height: auto; 
+}
+#myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 13%; 
+    right: 50px; 
+    z-index: 99; 
+    border: none;
+    outline: none; 
+    background-color: white; 
+    color: #333; 
+    cursor: pointer; 
+    padding: 1%; 
+    border-radius: 50%; 
+    font-size: 18px; 
+    border: 0.5px solid #333; 
+
+  }
+  
+  #myBtn:hover {
+    background-color: #333; 
+    color: #fff;
+
+  }
+
+.swiper-slide{
+    width:30%;
+    margin: 2%;
+    max-width: 100%; 
+
+  }
+  .swiper-wrapper {
+      transition-timing-function: linear;
+    }
