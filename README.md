@@ -5,7 +5,7 @@
 
 ## Introduction
 
-### 2023-7-website
+### webdesign special site
 
 日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作（期期：6月から8月）
 
