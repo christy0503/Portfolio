@@ -4,7 +4,7 @@
 
 実装期間：1ヶ月
 
-使用ツール：visual studio code 
+使用ツール：Visual Studio Code 
 
 ## 概要
 
@@ -12,7 +12,7 @@
 
 クライアント企業様からの指導を受け、サイトストーリーの重要性やユーザー視点からのコンテンツ表現を考慮し、クライアント様からフィードバックを受けて、それを取り入れています。
 
-サイト制作において、クライアントと共に作っているという気持ち（マインド）
+サイト制作において、クライアントと共に作っているという気持ちを持っています。
 
 毎週進捗報告でもらったフィードバックを受けて改善することとサイトストーリーの大切さを理解しました。
 
@@ -34,6 +34,6 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/christy0503/sportcalesites.git
-   cd sportcalesites
+   git clone https://github.com/christy0503/Portfolio/spocale.git
+   cd spocale
 
