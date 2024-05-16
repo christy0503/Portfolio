@@ -7,7 +7,7 @@
 
 ### webdesign special site
 
-日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作（期期：6月から8月）
+日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作（前期：6月から8月）
 
 ### spocale
 
@@ -19,7 +19,7 @@ personal site(二日間)
 
 ### weatherapi
 
-天気予報api
+天気予報app api練習
 
 ### todolist-react-main/vite-project
 
