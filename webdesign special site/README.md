@@ -1,6 +1,10 @@
-# 2023-7-website
+# webdesign special site
 
-日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作
+内容：日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作
+
+実装期間：三週間
+
+使用ツール：visual studio code 
 
 ## 概要
 
@@ -12,7 +16,6 @@
 ## こだわり
 
 ### スマホ優先
-### 
 
 ## Table of Contents
 
