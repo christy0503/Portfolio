@@ -5,7 +5,7 @@
 
 ## Introduction
 
-### webdesign special site
+### Webdesign special site
 
 日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作（前期：6月から8月）
 
