@@ -7,7 +7,7 @@
 
 ### expoloction-app
 
-日本電子専門学校　Webアプリ制作(二年前期：五月から八月)
+日本電子専門学校　Webアプリ制作(二年前期：５月から８月)
 
 使用技術：react-native / Expo 
 
