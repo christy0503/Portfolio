@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 アプリ名前：WAIN（wake up on the train）
 
-内容：日本電子専門学校　Webアプリ制作(二年前期：五月から八月)
+内容：日本電子専門学校　Webアプリ制作(二年前期：5月から7月)
 
 実装期間：3ヶ月（チーム制作　エンジニア2人、デザイナー1人）
 
