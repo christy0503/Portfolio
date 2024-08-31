@@ -1,20 +1,13 @@
 'use strict'
 
-// 在這裡使用 jQuery 進網頁
 $(document).ready(function() {
-  // 顯示歡迎畫面 with fadeIn 動畫
-  $('#welcomeScreen').fadeIn(1000); // 1秒的動畫時間
-
-  // 隱藏歡迎畫面並顯示主要內容 with fadeOut 動畫
+  $('#welcomeScreen').fadeIn(1000);
   var displayTime = 2000;
   setTimeout(function() {
       $('#welcomeScreen').fadeOut(1000, function() {
-          // 動畫完成後顯示主要內容
           $('#mainContent').fadeIn(1000);
           $('#spocale4p').fadeIn(1000);
           $('footer').fadeIn(1000);
-        //   $('.twitter-hashtag-button twitter-hashtag-button-rendered twitter-tweet-button').fadeIn(2000);
-        //   $('#xbutton').fadeIn(2000);
 
 
       });
@@ -67,13 +60,22 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 });
 
-function handleTickInit(tick) {
-  var thisYear = new Date().getFullYear();
-  Tick.count.down(thisYear + '-07-26').onupdate = function (value) {
-  tick.value = value;
-};
-};
 
+
+function handleTickInit(tick) {
+    var thisYear = new Date().getFullYear();
+    
+    var targetDate = new Date(Date.UTC(thisYear, 6, 26)); 
+    
+    targetDate.setUTCHours(targetDate.getUTCHours() + 2);
+    
+    var targetDateString = targetDate.toISOString().split('T')[0];
+    
+    Tick.count.down(targetDateString).onupdate = function (value) {
+      tick.value = value;
+    };
+  }
+  
 
 function fadeAnime(){
 

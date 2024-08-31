@@ -558,19 +558,19 @@ h3{
     text-decoration: none;
     margin: 0; 
 }
-#messagearea{
+.messagearea{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-#message{
+.message{
     text-align: center;
     color: #fff;
     font-size: 1.5vw;
     margin:5% 0 3% 0;
 
 }
-#mailbutton {
+.mailbutton {
     width: 20%;
     height: 4vw;    
     border-radius: 30px; 
@@ -1119,7 +1119,7 @@ h3{
     .footerdownload{
         transform: translate(-50%, -230%)  scale(0.6);
     }
-    #message{
+    .message{
         font-size: 4vw;
         margin: 8% 6% 6% 6%;
     }
@@ -1127,7 +1127,7 @@ h3{
         padding: 20%;
         transform:scale(0.4);
     }
-    #mailbutton{
+    .mailbutton{
         width: 60%;
         height: 8vw; 
         font-size: 0.875rem;
