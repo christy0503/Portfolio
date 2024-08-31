@@ -1,6 +1,53 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# expolocation-app
+
+アプリ名前：WAIN（wake up on the train）
+
+内容：日本電子専門学校　Webアプリ制作(二年前期：五月から八月)
+
+実装期間：3ヶ月（チーム制作　エンジニア2人、デザイナー1人）
+
+使用ツール：Visual Studio Code/Expo GO
+
+使用技術
+react-native / expo / react-native-picker-select / react-native-maps / expo-location/ react-native-vector-icons / MaterialCommunityIcons / react-native-vector-icons / AntDesign / expo-av / expo-router / @expo-google-fonts/roboto-condensed / https://express.heartrails.com/ (api)
+
+
+## 概要
+### 電車で寝過ごし防止アラーム
+
+電車でよく寝過ごしてしまう。
+そんな方に使っていただきたいアプリです。
+降りたい駅を設定し、指定した範囲に自分が入るとアラームがなるようになっています。
+また、アラームは計算問題が解き終わるまで終わりません。
+なのでバッチリ目を覚ますことができ、寝過ごす心配はありません。
+
+
+### コンテンツ
+
+・地点検索
+
+
+・計算問題を解かないとアラームが消えない
+
+
+## こだわり
+
+
+・範囲内に入ったらアラームが鳴り続ける機能を4パターンで出した。
+
+
+・apiから駅の緯度と経度座標をとる
+
+
+・駅からの設定した半径距離を出して設定できるようにする
+
+
+・スマホexpoアプリマップの表示
+
+
 
 ## Get started
 
