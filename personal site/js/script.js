@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         coverflowEffect: {
             rotate: 0,
             stretch: 0,
-            depth: 1000,
+            depth: 0,
             modifier: 1,
             slideShadows: true
         },
