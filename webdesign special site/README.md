@@ -1,10 +1,13 @@
 # Webdesign special site
 
-内容：日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作
+プロジェクト名：Webデザイン科スペシャルサイトの制作
 
-実装期間：三週間
+制作期間：2023年6月から2023年8月（2ヶ月）
 
-使用ツール：Visual Studio Code 
+担当：企画、UIUXデザイン、実装
+
+使用技術：Html / CSS / Javascript / figma
+
 
 ## 概要
 
