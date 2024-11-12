@@ -25,7 +25,7 @@
 
 使用技術：react-native / Expo /　Figma
 
-### プロジェクト３：Webdesign special site
+### プロジェクト３：webdesign special site
 
 日本電子専門学校前期課題-Webデザイン科スペシャルサイトの制作
 
