@@ -1,10 +1,14 @@
 # spocale
 
-内容：日本電子専門学校後期課題-スポーツ日程掲載サービス「スポカレ」ランディングページ制作（後期：9月から12月）
+プロジェクト名：スポーツ日程掲載サービス「スポカレ」ランディングページ制作
 
-実装期間：1ヶ月
+制作期間：2023年9月から2023年12月（3ヶ月）
 
-使用ツール：Visual Studio Code 
+担当：企画、UIUXデザイン、実装
+
+使用技術：Html / CSS / Javascript
+
+使用ツール：Visual Studio Code / Photoshop /illustrator / Figma
 
 ## 概要
 
