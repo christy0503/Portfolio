@@ -5,11 +5,15 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 アプリ名前：WAIN（wake up on the train）
 
-内容：日本電子専門学校　Webアプリ制作(二年前期：5月から7月)
+プロジェクト名：日本電子専門学校　Webアプリ制作
 
-実装期間：3ヶ月（チーム制作　エンジニア2人、デザイナー1人）
+実装期間：2024年5月から2024年7月（3ヶ月)
 
-使用ツール：Visual Studio Code/Expo GO
+制作人数：3人（デザイナー1人、エンジニア2人）
+
+担当：エンジニア
+
+使用ツール：Visual Studio Code/Expo GO/Figma
 
 使用技術
 react-native / expo / react-native-picker-select / react-native-maps / expo-location/ react-native-vector-icons / MaterialCommunityIcons / react-native-vector-icons / AntDesign / expo-av / expo-router / @expo-google-fonts/roboto-condensed / https://express.heartrails.com/ (api)
