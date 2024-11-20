@@ -43,19 +43,32 @@ personal site
 使用技術：Html / CSS / Javascript / figma
 
 ## 学校課題
-### 学校課題１：weatherapi
+
+### 学校課題１：laratest(Laravel)
+
+Laravel練習
+
+使用技術：php, Docker
+
+### 学校課題２：wordpress
+
+wordpress練習
+
+使用技術：php, Docker
+
+### 学校課題３：weatherapi
 
 天気予報app api練習
 
 使用技術：react-native 
 
-### 学校課題２：todolist-react-main/vite-project
+### 学校課題４：todolist-react-main/vite-project
 
 react todolist練習
 
 使用技術：JavaScript
 
-### 学校課題３：hbgmenu-practice-main
+### 学校課題５：hbgmenu-practice-main
 
 JavaScriptハンバーガーメニュー練習
 
