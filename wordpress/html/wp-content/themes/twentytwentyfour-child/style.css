@@ -1,0 +1,7 @@
+/*
+Theme Name: Twenty Twenty-four Child
+Version:1.0
+Template:twentytwentyfour
+*/
+//
+add_filter('use_default_gallery_style','__return_false');
